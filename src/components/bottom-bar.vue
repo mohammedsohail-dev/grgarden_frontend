@@ -4,8 +4,8 @@
       <button class ='btn-big' @click = "redirect(franchise)"> {{franchise}} </button>
     </div>
     <div class = "bottom-right">
-          <li>Contact: Gulfarosh Nudratullah </li>
-          <li>Phone number: +91 9908155573</li>
+          <li>Contact:  </li>
+          <li>Phone number: </li>
           BOOK NOW!!!
         </div>
     </div>
